@@ -2,6 +2,9 @@
 ### Контакты:  
 andma@mail.ru  
 Telegram: @And7114
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AmdreiMash&theme=transparent&hide_border=true&locale=ru)](https://git.io/streak-stats)
+
 ## О себе:  
 В настоящее время работаю IT рекрутером. Всегда хотел попробовать сови силы в front-end разработке.В насоящее время прохожу курс RSS school.  
 Своими сильнвми сторонами считаю дисциплину и упортсво.
